@@ -1,0 +1,5 @@
+
+pm2 start /home/zall/project/scaner/scaner_service.py --name scaner_service --interpreter python3
+
+pm2 start /home/zall/project/scaner/scaner_market.py --name scaner_market --interpreter python3
+
